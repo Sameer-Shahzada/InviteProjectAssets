@@ -1,3 +1,3 @@
 # InviteProjectAssets
 Privacy Policy 
-  -[Visit](https://github.com/Sameer-Shahzada/InviteProjectAssets/blob/master/invitePrivacy.html)
+  -[Visit](https://sameer-shahzada.github.io/inviteProjectAssets/invitePrivacy.html)
